@@ -1,4 +1,8 @@
 phpmvc
 ======
 
-Simple MVC to kickstart project. - seo friendly url, single page entry, multiple website
+Simple MVC to kickstart project. 
+	- seo friendly url
+	- single page entry
+	- multiple website
+	- bootstrap integration
